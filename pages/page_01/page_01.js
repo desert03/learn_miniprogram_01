@@ -6,7 +6,11 @@ Page({
    * 页面的初始数据
    * (stash标记)
    * 页面的初始数据(pull操作和fetch、merge，标记==============)
+<<<<<<< HEAD
    * origin/branch_test_01
+=======
+   * (用于验证另一个项目，当最新修改已经提交到本地库后)
+>>>>>>> feb4c16e00f877ce246cb9cacda4ee8e9e990f9e
    */
   data: {
 
