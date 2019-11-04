@@ -2,6 +2,7 @@
 App({
   onLaunch: function () {
     // 展示本地存储能力(跨团队协作，修改01)
+	// 跨团队修改02，内部团队修改
     var logs = wx.getStorageSync('logs') || []
     logs.unshift(Date.now())
     wx.setStorageSync('logs', logs)
