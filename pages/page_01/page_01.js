@@ -2,8 +2,11 @@
 Page({
 
   /**
+   * 
    * 页面的初始数据
    * (stash标记)
+   * 页面的初始数据(pull操作和fetch、merge，标记==============)
+   * origin/branch_test_01
    */
   data: {
 
