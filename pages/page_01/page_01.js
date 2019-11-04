@@ -10,7 +10,11 @@ Page({
    * origin/branch_test_01
 =======
    * (用于验证另一个项目，当最新修改已经提交到本地库后)
+<<<<<<< HEAD
 >>>>>>> feb4c16e00f877ce246cb9cacda4ee8e9e990f9e
+=======
+   * (用于验证二次)
+>>>>>>> 0c4e50fd7dd54589d71a6b085529d4b9ee5a79f7
    */
   data: {
 
