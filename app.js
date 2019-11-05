@@ -6,6 +6,7 @@ App({
 	// 跨团队，外部修改02
 	// 跨团队修改02，内部团队修改
 	// 跨团队，外部修改03
+	// 外部修改04
 
     var logs = wx.getStorageSync('logs') || []
     logs.unshift(Date.now())
